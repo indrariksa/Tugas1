@@ -1,0 +1,55 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT myhotel (tamu)+>
+<!ATTLIST myhotel
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT tamu (transaksi)>
+<!ATTLIST tamu
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT transaksi (no_kamar,tipe_kamar,id_tamu,nama_tamu,alamat_tamu,
+                     telp_tamu,email_tamu,checkin,checkout,total_bayar)>
+<!ATTLIST transaksi
+    xmlns CDATA #FIXED ''
+    id NMTOKEN #REQUIRED>
+
+<!ELEMENT no_kamar (#PCDATA)>
+<!ATTLIST no_kamar
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT tipe_kamar (#PCDATA)>
+<!ATTLIST tipe_kamar
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT id_tamu (#PCDATA)>
+<!ATTLIST id_tamu
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT nama_tamu (#PCDATA)>
+<!ATTLIST nama_tamu
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT alamat_tamu (#PCDATA)>
+<!ATTLIST alamat_tamu
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT telp_tamu (#PCDATA)>
+<!ATTLIST telp_tamu
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT email_tamu (#PCDATA)>
+<!ATTLIST email_tamu
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT checkin (#PCDATA)>
+<!ATTLIST checkin
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT checkout (#PCDATA)>
+<!ATTLIST checkout
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT total_bayar (#PCDATA)>
+<!ATTLIST total_bayar
+    xmlns CDATA #FIXED ''>

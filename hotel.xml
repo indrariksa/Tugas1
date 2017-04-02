@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE myhotel SYSTEM "myhotel.dtd">
+<myhotel>
+	<tamu>
+		<transaksi id="INV101">
+		<no_kamar>301</no_kamar>
+		<tipe_kamar>Presidential Room</tipe_kamar>
+		<id_tamu>1154051</id_tamu>
+		<nama_tamu>Indra Riksa Herlambang</nama_tamu>
+		<alamat_tamu>Bandung</alamat_tamu>
+		<telp_tamu>08122450582</telp_tamu>
+		<email_tamu>indrariksa@gmail.com</email_tamu>
+		<checkin>01-04-2017</checkin>
+		<checkout>04-04-2017</checkout>
+		<total_bayar>4000000</total_bayar>
+		</transaksi>
+	</tamu>
+	<tamu>
+		<transaksi id="INV102">
+		<no_kamar>204</no_kamar>
+		<tipe_kamar>Suite Room</tipe_kamar>
+		<id_tamu>1154008</id_tamu>
+		<nama_tamu>Maulyanda</nama_tamu>
+		<alamat_tamu>Aceh</alamat_tamu>
+		<telp_tamu>08122450581</telp_tamu>
+		<email_tamu>maulyanda94.kcb@gmail.com</email_tamu>
+		<checkin>03-04-2017</checkin>
+		<checkout>05-04-2017</checkout>
+		<total_bayar>2100000</total_bayar>
+		</transaksi>
+	</tamu>
+	<tamu>
+		<transaksi id="INV103">
+		<no_kamar>109</no_kamar>
+		<tipe_kamar>Superior Room</tipe_kamar>
+		<id_tamu>1154048</id_tamu>
+		<nama_tamu>Kindi Herdiansyah</nama_tamu>
+		<alamat_tamu>Sumedang</alamat_tamu>
+		<telp_tamu>08122450583</telp_tamu>
+		<email_tamu>kindiherdiansyah@gmail.com</email_tamu>
+		<checkin>01-04-2017</checkin>
+		<checkout>03-04-2017</checkout>
+		<total_bayar>1500000</total_bayar>
+		</transaksi>
+	</tamu>
+	<tamu>
+		<transaksi id="INV104">
+		<no_kamar>211</no_kamar>
+		<tipe_kamar>Suite Room</tipe_kamar>
+		<id_tamu>1154012</id_tamu>
+		<nama_tamu>Agien Farhan</nama_tamu>
+		<alamat_tamu>Luwuk</alamat_tamu>
+		<telp_tamu>08122450584</telp_tamu>
+		<email_tamu>agienfarhan@gmail.com</email_tamu>
+		<checkin>31-03-2017</checkin>
+		<checkout>04-04-2017</checkout>
+		<total_bayar>3500000</total_bayar>
+		</transaksi>
+	</tamu>
+	<tamu>
+		<transaksi id="INV105">
+		<no_kamar>105</no_kamar>
+		<tipe_kamar>Superior Room</tipe_kamar>
+		<id_tamu>1154061</id_tamu>
+		<nama_tamu>Berlin Mitra Putra</nama_tamu>
+		<alamat_tamu>Bekasi</alamat_tamu>
+		<telp_tamu>08122450585</telp_tamu>
+		<email_tamu>berlinmitraa@gmail.com</email_tamu>
+		<checkin>04-04-2017</checkin>
+		<checkout>05-04-2017</checkout>
+		<total_bayar>1000000</total_bayar>
+		</transaksi>
+	</tamu>
+	</myhotel>
